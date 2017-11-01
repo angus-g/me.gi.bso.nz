@@ -1,0 +1,7 @@
+---
+title: Using GitHub Pages
+layout: post
+date: 2017-11-02
+---
+
+Here's a post, maybe?
